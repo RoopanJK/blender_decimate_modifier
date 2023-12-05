@@ -10,6 +10,7 @@ Decimate modifier script that decimates models in a directory and overwrites the
     > python3.10 -m venv blender_ws
 3. Source the venv
     > cd blender_ws
+    
     > source ./bin/activate
 4. Create directories scripts, wheels and download [bpy 3.6](https://pypi.org/project/bpy/3.6.0/#files) and place it in the wheels directory
     > mkdir wheels
